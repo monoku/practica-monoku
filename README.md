@@ -1,6 +1,6 @@
 # PRUEBA PRACTICA PASANTE 2018-1
 
-##La idea de esta prueba es simplemente para entender un poco tu nivel, no te sientas mal si NO sabes algo, o desconoces los temas, simplemente es una pequeña guía para nosotros... :)
+*La idea de esta prueba es simplemente para entender un poco tu nivel, no te sientas mal si NO sabes algo, o desconoces los temas, simplemente es una pequeña guía para nosotros... :)*
 
 
 ## Enunciado del problema
