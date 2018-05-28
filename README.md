@@ -1,6 +1,7 @@
 # PRUEBA PRACTICA PASANTE 2018-1
 
-*La idea de esta prueba es simplemente para entender un poco tu nivel, no te sientas mal si NO sabes algo, o desconoces los temas, simplemente es una pequeña guía para nosotros... :)*
+**La idea de esta prueba es simplemente para entender un poco tu nivel, no te sientas mal si NO sabes algo, o desconoces los temas, 
+no importa si logras el 5%, 15% o inclusive 0% simplemente es una pequeña guía para nosotros... :) :)**
 
 
 ## Enunciado del problema
@@ -9,7 +10,7 @@ En Monoku nos encanta comer! Por esto, solemos comprar muchas galguerias (Dulces
 El problema que tenemos es que muchas veces debemos botarla porque se vence y se nos olvida que está ahí. 
 Por lo tanto nos gustaría saber:
 
-1. Qué come cada miembro del equipo,?
+1. Qué come cada miembro del equipo?
 2. El nombre de la persona que más consumió
 3. Nombre del producto que más se consumió.
 
