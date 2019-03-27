@@ -1,4 +1,4 @@
-# PRUEBA PRACTICA PASANTE 2019-1
+# PRUEBA PRACTICA PASANTE
 
 **La idea de esta prueba es simplemente para entender un poco tu nivel, no te sientas mal si NO sabes algo, o desconoces los temas, 
 no importa si logras el 5%, 15% o inclusive 0% simplemente es una pequeña guía para nosotros... :) :)**
